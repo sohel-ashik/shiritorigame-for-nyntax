@@ -12,5 +12,6 @@ System:
 * If you put invalid word or spoil your time you will loose 1 points.
 * when you want finish press the finish button.
 
+link: [shiritori-game-by-ashik.netlify.app](https://shiritori-game-by-ashik.netlify.app/)
 
 # Happy gaming......
